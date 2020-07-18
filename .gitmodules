@@ -1,0 +1,15 @@
+[submodule "assignment5_neural_coding_students"]
+	path = assignment5_neural_coding_students
+	url = https://github.com/NeuroNetMem/assignment5_neural_coding_students.git
+[submodule "assignment4-calcium_imaging_analysis"]
+	path = assignment4-calcium_imaging_analysis
+	url = https://github.com/NeuroNetMem/assignment4-calcium_imaging_analysis.git
+[submodule "Assignment3_SVM_decoding_and_Surrogates"]
+	path = Assignment3_SVM_decoding_and_Surrogates
+	url = https://github.com/NeuroNetMem/Assignment3_SVM_decoding_and_Surrogates.git
+[submodule "Assignment2_sequences"]
+	path = Assignment2_sequences
+	url = https://github.com/NeuroNetMem/Assignment2_sequences.git
+[submodule "Assignment1_place_cells"]
+	path = Assignment1_place_cells
+	url = https://github.com/NeuroNetMem/Assignment1_place_cells.git
